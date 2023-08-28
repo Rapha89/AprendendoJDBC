@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,15 +28,36 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/rapha/OneDrive/Área de Trabalho/ALURA/CURSOS/03 - Java e JDBC - trabalhando com um banco de dados/byte-bank-alura-curso_jdbc_aula_2"
+    "last_opened_file_path": "C:/Users/rapha/OneDrive/Área de Trabalho/ALURA/CURSOS/03 - Java e JDBC - trabalhando com um banco de dados/byte-bank-alura-curso_jdbc_aula_1"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rapha\OneDrive\Área de Trabalho\ALURA\CURSOS\03 - Java e JDBC - trabalhando com um banco de dados\byte-bank-alura-curso_jdbc_aula_1" />
       <recent name="C:\Users\rapha\OneDrive\Área de Trabalho\ALURA\CURSOS\03 - Java e JDBC - trabalhando com um banco de dados\byte-bank-alura-curso_jdbc_aula_1\src" />
       <recent name="C:\Users\rapha\OneDrive\Área de Trabalho\ALURA\CURSOS\03 - Java e JDBC - trabalhando com um banco de dados\byte-bank-alura-curso_jdbc_aula_1\.idea" />
       <recent name="C:\Users\rapha\OneDrive\Área de Trabalho\ALURA\CURSOS\03 - Java e JDBC - trabalhando com um banco de dados\byte-bank-alura-curso_jdbc_aula_1\src\main" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConnectionFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.bytebank.ConnectionFactory" />
+      <module name="bytebank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.bytebank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectionFactory" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
