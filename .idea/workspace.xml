@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6fab96b6-0706-45d0-90a5-cf283c376f22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/ContaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/ContaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/ContaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/ContaService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
