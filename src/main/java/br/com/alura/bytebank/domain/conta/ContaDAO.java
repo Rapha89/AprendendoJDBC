@@ -99,7 +99,7 @@ public class ContaDAO {
                         new DadosCadastroCliente(nome, cpf, email);
                 Cliente cliente = new Cliente(dadosCadastroCliente);
 
-                conta = new Conta(numeroRecuperado, BigDecimal.ZERO, cliente);
+                conta = new Conta(numeroRecuperado, saldo, cliente);
             }
             resultSet.close();
             ps.close();
