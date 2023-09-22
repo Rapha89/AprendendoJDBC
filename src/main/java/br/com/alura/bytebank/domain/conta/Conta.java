@@ -38,7 +38,8 @@ public class Conta {
     }
 
     @Override
-    public int hashCode() {
+    public int hashCode()
+    {
         return Objects.hash(numero);
     }
 
